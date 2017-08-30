@@ -3,7 +3,6 @@ public class Problem {
 
 	int diameter = 4;
 	int tpr = 1012;
-	double output;
 	
 		public void calculator(int distanceTraveled) {
 			
