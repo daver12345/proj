@@ -5,7 +5,6 @@ public class Problem {
 	int tpr = 1012; // Ticks per revolution of wheel
 	
 		public void calculator(int distanceTraveled) {
-			
 			double circum = diameter * 3.14; // Calculates circumference
 			double tpi = (tpr/360d) * circum; // Converts ticks per revolution to ticks per inch
 			double output = tpi * distanceTraveled; // Multiplies ticks per inch by distance in inches
