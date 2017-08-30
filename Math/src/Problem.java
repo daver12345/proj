@@ -15,7 +15,7 @@ public class Problem {
 	
 	public static void main(String[] args) {
 		Problem tprConversion = new Problem(); // Creates a new object that allows the method calculator() to be invoked
-		tprConversion.calculator(1); //Input a distance traveled in between the ()
+		tprConversion.calculator(1); // Input a distance traveled in between the ()
 	}
 
 }
